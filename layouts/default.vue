@@ -1,6 +1,6 @@
 <template>
   <header>
-    <div class="sticky top-0 w-screen h-28 p-3">
+    <div class="sticky font-Itim top-0 w-screen h-28 p-3">
       <slot name="header" />
     </div>
   </header>

@@ -4,5 +4,8 @@ export default defineNuxtConfig({
     components: [    {      
         path: '~/components',     
     extensions: ['.vue'],    
-    }  ]
+    } ],
+    css:[
+        '~/assets/css/main.css'
+    ]
 })
