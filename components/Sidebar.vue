@@ -4,8 +4,8 @@
             <img src="~/assets/Images/Profilpic.jpg" alt="Profilpicture"/>
         </div>
         
-        <p class="ml-6 font-Itim mb-5">Colin Enggist</p>
-        <p class="ml-6 font-Itim mb-3">Advery</p>
-        <p class="ml-6 font-Itim mb-3">Mediamatiker in Ausbildung</p>
+        <p class="ml-6 font-Itim mb-5">Colin</p>
+        <p class="ml-6 font-Itim mb-3">Agentur</p>
+        <p class="ml-6 font-Itim mb-3">Mediaschwachmatiker in Ausbildung</p>
     </div>
 </template>

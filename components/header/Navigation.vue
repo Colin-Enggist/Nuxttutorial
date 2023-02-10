@@ -3,5 +3,8 @@
         <NuxtLink to="/">
             Start
         </NuxtLink>
+        <NuxtLink to="/starwars">
+            Star-Wars
+        </NuxtLink>
     </div>
 </template>
